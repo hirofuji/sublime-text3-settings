@@ -11,8 +11,11 @@
 	[
 		"ConvertToUTF8",
 		"Git",
+		"Grails",
 		"IMESupport",
 		"LiveStyle",
-		"Package Control"
+		"Package Control",
+		"Seti_UI",
+		"zenburn"
 	]
 }

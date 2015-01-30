@@ -2,9 +2,15 @@
 	"draw_white_space": "all",
 	"font_face": "Consolas",
 	"font_size": 10,
+	"show_encoding": true,
+	// テーマ設定
+	"theme": "zenburn.sublime-theme",
+	"color_scheme": "Packages/zenburn/zenburn.tmTheme",
+	// "theme": "Seti.sublime-theme",
+	// "color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme"
+	
 	"ignored_packages":
 	[
 		"Vintage"
-	],
-	"show_encoding": true
+	]
 }
