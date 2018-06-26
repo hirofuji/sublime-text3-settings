@@ -10,9 +10,9 @@
 		"Grails",
 		"IMESupport",
 		"JavaPropertiesEditor",
-		"LiveStyle",
+		"Oracle PL SQL",
+		"Origami",
 		"Package Control",
-		"Seti_UI",
-		"zenburn"
+		"SQLTools"
 	]
 }

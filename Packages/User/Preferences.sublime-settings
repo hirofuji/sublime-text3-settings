@@ -2,12 +2,12 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_white_space": "all",
 	"font_face": "Ricty Diminished",
-	"font_size": 13,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "zenburn.sublime-theme"
+	"theme": "Adaptive.sublime-theme"
 }
